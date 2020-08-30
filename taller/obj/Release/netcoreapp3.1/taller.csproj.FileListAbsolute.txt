@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\taller\obj\Release\netcoreapp3.1\taller.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\taller\obj\Release\netcoreapp3.1\Home.g.cs
+C:\Users\Usuario\source\repos\taller\obj\Release\netcoreapp3.1\Login.g.cs
+C:\Users\Usuario\source\repos\taller\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Usuario\source\repos\taller\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\Usuario\source\repos\taller\obj\Release\netcoreapp3.1\taller_MarkupCompile.cache
+C:\Users\Usuario\source\repos\taller\obj\Release\netcoreapp3.1\taller_MarkupCompile.lref
